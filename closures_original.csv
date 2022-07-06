@@ -1,0 +1,52 @@
+State,State Abbreviation,,Closed K-12 public schools,,Closed other non-essential businesses,,Closed restaurants,,Closed gyms,,Closed movie theaters,,Closed bars,,Closed casinos
+Alabama,AL,closing_schools,3/20/2020,closing_nebusinesses,3/28/2020,closing_restaurants,3/19/2020,closing_gyms,3/28/2020,closing_movietheaters,3/28/2020,closing_bars,3/19/2020,closing_casinos,3/28/2020
+Alaska,AK,closing_schools,3/16/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/18/2020,closing_gyms,3/18/2020,closing_movietheaters,3/18/2020,closing_bars,3/18/2020,closing_casinos,0
+Arizona,AZ,closing_schools,3/16/2020,closing_nebusinesses,3/31/2020,closing_restaurants,3/21/2020,closing_gyms,3/21/2020,closing_movietheaters,3/21/2020,closing_bars,3/21/2020,closing_casinos,0
+Arkansas,AR,closing_schools,3/17/2020,closing_nebusinesses,4/6/2020,closing_restaurants,3/20/2020,closing_gyms,3/20/2020,closing_movietheaters,3/20/2020,closing_bars,3/20/2020,closing_casinos,3/17/2020
+California,CA,closing_schools,3/23/2020,closing_nebusinesses,3/19/2020,closing_restaurants,3/16/2020,closing_gyms,3/19/2020,closing_movietheaters,3/19/2020,closing_bars,3/16/2020,closing_casinos,0
+Colorado,CO,closing_schools,3/23/2020,closing_nebusinesses,3/19/2020,closing_restaurants,3/17/2020,closing_gyms,3/17/2020,closing_movietheaters,3/17/2020,closing_bars,3/17/2020,closing_casinos,3/17/2020
+Connecticut,CT,closing_schools,3/17/2020,closing_nebusinesses,3/23/2020,closing_restaurants,3/16/2020,closing_gyms,3/16/2020,closing_movietheaters,3/16/2020,closing_bars,3/16/2020,closing_casinos,0
+Delaware,DE,closing_schools,3/16/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/16/2020,closing_gyms,3/19/2020,closing_movietheaters,3/19/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+District of Columbia,DC,closing_schools,3/16/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/16/2020,closing_gyms,3/17/2020,closing_movietheaters,3/17/2020,closing_bars,3/16/2020,closing_casinos,0
+Florida,FL,closing_schools,3/17/2020,closing_nebusinesses,4/3/2020,closing_restaurants,4/3/2020,closing_gyms,4/3/2020,closing_movietheaters,4/3/2020,closing_bars,3/17/2020,closing_casinos,0
+Georgia,GA,closing_schools,3/18/2020,closing_nebusinesses,4/3/2020,closing_restaurants,4/3/2020,closing_gyms,4/3/2020,closing_movietheaters,4/3/2020,closing_bars,3/24/2020,closing_casinos,0
+Hawaii,HI,closing_schools,3/16/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/17/2020,closing_gyms,3/25/2020,closing_movietheaters,3/17/2020,closing_bars,3/17/2020,closing_casinos,0
+Idaho,ID,closing_schools,3/24/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/25/2020,closing_gyms,3/25/2020,closing_movietheaters,3/25/2020,closing_bars,3/25/2020,closing_casinos,0
+Illinois,IL,closing_schools,3/17/2020,closing_nebusinesses,3/21/2020,closing_restaurants,3/16/2020,closing_gyms,3/21/2020,closing_movietheaters,3/21/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+Indiana,IN,closing_schools,3/20/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/16/2020,closing_gyms,3/25/2020,closing_movietheaters,3/25/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+Iowa,IA,closing_schools,4/2/2020,closing_nebusinesses,3/26/2020,closing_restaurants,3/17/2020,closing_gyms,3/17/2020,closing_movietheaters,3/17/2020,closing_bars,3/17/2020,closing_casinos,3/16/2020
+Kansas,KS,closing_schools,3/18/2020,closing_nebusinesses,3/30/2020,closing_restaurants,3/30/2020,closing_gyms,3/30/2020,closing_movietheaters,3/30/2020,closing_bars,3/30/2020,closing_casinos,5/4/2020
+Kentucky,KY,closing_schools,3/17/2020,closing_nebusinesses,3/26/2020,closing_restaurants,3/16/2020,closing_gyms,3/18/2020,closing_movietheaters,3/18/2020,closing_bars,3/16/2020,closing_casinos,0
+Louisiana,LA,closing_schools,3/16/2020,closing_nebusinesses,3/23/2020,closing_restaurants,3/17/2020,closing_gyms,3/17/2020,closing_movietheaters,3/17/2020,closing_bars,3/17/2020,closing_casinos,3/17/2020
+Maine,ME,closing_schools,4/2/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/18/2020,closing_gyms,3/25/2020,closing_movietheaters,3/25/2020,closing_bars,3/18/2020,closing_casinos,0
+Maryland,MD,closing_schools,3/16/2020,closing_nebusinesses,3/23/2020,closing_restaurants,3/16/2020,closing_gyms,3/16/2020,closing_movietheaters,3/16/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+Massachusetts,MA,closing_schools,3/17/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/17/2020,closing_gyms,3/24/2020,closing_movietheaters,3/24/2020,closing_bars,3/17/2020,closing_casinos,3/14/2020
+Michigan,MI,closing_schools,3/16/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/16/2020,closing_gyms,3/16/2020,closing_movietheaters,3/16/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+Minnesota,MN,closing_schools,3/18/2020,closing_nebusinesses,3/28/2020,closing_restaurants,3/17/2020,closing_gyms,3/17/2020,closing_movietheaters,3/17/2020,closing_bars,3/17/2020,closing_casinos,0
+Mississippi,MS,closing_schools,3/20/2020,closing_nebusinesses,4/3/2020,closing_restaurants,4/3/2020,closing_gyms,4/3/2020,closing_movietheaters,4/3/2020,closing_bars,4/3/2020,closing_casinos,3/16/2020
+Missouri,MO,closing_schools,3/23/2020,closing_nebusinesses,4/3/2020,closing_restaurants,3/23/2020,closing_gyms,4/3/2020,closing_movietheaters,4/3/2020,closing_bars,3/23/2020,closing_casinos,3/17/2020
+Montana,MT,closing_schools,3/16/2020,closing_nebusinesses,3/28/2020,closing_restaurants,3/20/2020,closing_gyms,3/20/2020,closing_movietheaters,3/20/2020,closing_bars,3/20/2020,closing_casinos,3/20/2020
+Nebraska,NE,closing_schools,4/3/2020,closing_nebusinesses,4/9/2020,closing_restaurants,4/3/2020,closing_gyms,4/3/2020,closing_movietheaters,4/9/2020,closing_bars,4/3/2020,closing_casinos,0
+Nevada,NV,closing_schools,3/16/2020,closing_nebusinesses,3/21/2020,closing_restaurants,3/21/2020,closing_gyms,3/21/2020,closing_movietheaters,3/21/2020,closing_bars,3/21/2020,closing_casinos,3/17/2020
+New Hampshire,NH,closing_schools,3/16/2020,closing_nebusinesses,3/28/2020,closing_restaurants,3/16/2020,closing_gyms,3/28/2020,closing_movietheaters,3/28/2020,closing_bars,3/16/2020,closing_casinos,0
+New Jersey,NJ,closing_schools,3/18/2020,closing_nebusinesses,3/21/2020,closing_restaurants,3/16/2020,closing_gyms,3/16/2020,closing_movietheaters,3/16/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+New Mexico,NM,closing_schools,3/16/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/20/2020,closing_gyms,3/19/2020,closing_movietheaters,3/19/2020,closing_bars,3/19/2020,closing_casinos,3/16/2020
+New York,NY,closing_schools,3/18/2020,closing_nebusinesses,3/22/2020,closing_restaurants,3/17/2020,closing_gyms,3/16/2020,closing_movietheaters,3/16/2020,closing_bars,3/16/2020,closing_casinos,3/16/2020
+North Carolina,NC,closing_schools,3/16/2020,closing_nebusinesses,3/30/2020,closing_restaurants,3/18/2020,closing_gyms,3/25/2020,closing_movietheaters,3/25/2020,closing_bars,3/17/2020,closing_casinos,0
+North Dakota,ND,closing_schools,3/16/2020,closing_nebusinesses,3/20/2020,closing_restaurants,3/21/2020,closing_gyms,3/20/2020,closing_movietheaters,3/20/2020,closing_bars,3/20/2020,closing_casinos,0
+Ohio,OH,closing_schools,3/17/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/16/2020,closing_gyms,3/17/2020,closing_movietheaters,3/17/2020,closing_bars,3/15/2020,closing_casinos,0
+Oklahoma,OK,closing_schools,3/17/2020,closing_nebusinesses,4/1/2020,closing_restaurants,4/1/2020,closing_gyms,4/1/2020,closing_movietheaters,4/1/2020,closing_bars,4/1/2020,closing_casinos,0
+Oregon,OR,closing_schools,3/16/2020,closing_nebusinesses,3/23/2020,closing_restaurants,3/18/2020,closing_gyms,3/24/2020,closing_movietheaters,3/24/2020,closing_bars,3/17/2020,closing_casinos,0
+Pennsylvania,PA,closing_schools,3/16/2020,closing_nebusinesses,3/21/2020,closing_restaurants,3/18/2020,closing_gyms,3/21/2020,closing_movietheaters,3/21/2020,closing_bars,3/18/2020,closing_casinos,3/17/2020
+Rhode Island,RI,closing_schools,0,closing_nebusinesses,3/30/2020,closing_restaurants,3/18/2020,closing_gyms,3/23/2020,closing_movietheaters,3/23/2020,closing_bars,3/17/2020,closing_casinos,3/22/2020
+South Carolina,SC,closing_schools,3/16/2020,closing_nebusinesses,4/1/2020,closing_restaurants,3/19/2020,closing_gyms,4/1/2020,closing_movietheaters,4/1/2020,closing_bars,3/18/2020,closing_casinos,4/1/2020
+South Dakota,SD,closing_schools,3/16/2020,closing_nebusinesses,0,closing_restaurants,0,closing_gyms,0,closing_movietheaters,0,closing_bars,0,closing_casinos,0
+Tennessee,TN,closing_schools,3/20/2020,closing_nebusinesses,4/1/2020,closing_restaurants,3/24/2020,closing_gyms,3/23/2020,closing_movietheaters,3/23/2020,closing_bars,3/23/2020,closing_casinos,0
+Texas,TX,closing_schools,3/21/2020,closing_nebusinesses,4/2/2020,closing_restaurants,3/21/2020,closing_gyms,3/21/2020,closing_movietheaters,4/2/2020,closing_bars,3/21/2020,closing_casinos,0
+Utah,UT,closing_schools,3/16/2020,closing_nebusinesses,3/27/2020,closing_restaurants,3/20/2020,closing_gyms,3/27/2020,closing_movietheaters,3/27/2020,closing_bars,3/19/2020,closing_casinos,0
+Vermont,VT,closing_schools,3/18/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/18/2020,closing_gyms,3/23/2020,closing_movietheaters,3/25/2020,closing_bars,3/17/2020,closing_casinos,0
+Virginia,VA,closing_schools,3/16/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/26/2020,closing_gyms,3/25/2020,closing_movietheaters,3/25/2020,closing_bars,3/25/2020,closing_casinos,0
+Washington,WA,closing_schools,3/17/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/16/2020,closing_gyms,3/16/2020,closing_movietheaters,3/16/2020,closing_bars,3/17/2020,closing_casinos,0
+West Virginia,WV,closing_schools,3/16/2020,closing_nebusinesses,3/24/2020,closing_restaurants,3/19/2020,closing_gyms,3/19/2020,closing_movietheaters,3/24/2020,closing_bars,3/18/2020,closing_casinos,3/18/2020
+Wisconsin,WI,closing_schools,3/18/2020,closing_nebusinesses,3/25/2020,closing_restaurants,3/18/2020,closing_gyms,3/25/2020,closing_movietheaters,3/25/2020,closing_bars,3/17/2020,closing_casinos,0
+Wyoming,WY,closing_schools,3/19/2020,closing_nebusinesses,3/19/2020,closing_restaurants,3/19/2020,closing_gyms,3/19/2020,closing_movietheaters,3/19/2020,closing_bars,3/19/2020,closing_casinos,0
